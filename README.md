@@ -1,1 +1,1 @@
-# This is the first assignment of DAI-101
+# DAI-101 first assignment
